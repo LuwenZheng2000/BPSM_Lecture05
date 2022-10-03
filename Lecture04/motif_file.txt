@@ -1,0 +1,2 @@
+#This line has motif1 and notif1 in it 
+# This line has notif 2 only
